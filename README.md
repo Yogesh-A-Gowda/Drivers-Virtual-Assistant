@@ -6,6 +6,7 @@ Can ask time, can search for stuffs online where you can get voice output just l
 
 
 TO RUN THIS PROJECT : 
+User needs to install FFMPEG : https://servicedesk.imanage.com/helpdesk/tickets/81093
 INSTALL UV : https://www.youtube.com/watch?v=ZsN1-vvYP4c
 once UV is installed, execute following commands in CMD (in the project folder location)
 1. uv init --python python3.13.3 [version can be specified as per requirement]
