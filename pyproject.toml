@@ -1,0 +1,16 @@
+[project]
+name = "driversva"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ffmpeg>=1.4",
+    "gtts>=2.5.4",
+    "pillow>=11.2.1",
+    "pyaudio>=0.2.14",
+    "pyttsx3>=2.98",
+    "simpleaudio>=1.0.4",
+    "speechrecognition>=3.14.3",
+    "wikipedia>=1.4.0",
+]
